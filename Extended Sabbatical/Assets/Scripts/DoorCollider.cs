@@ -8,7 +8,6 @@ public class DoorCollider : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        Debug.Log("Enter.");
         TurnThisOn1.SetActive(true);
     }
 
