@@ -1506,7 +1506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Rigidbody_Player: {fileID: 1063123692}
-  F_MoveSpeed: 90
+  F_MoveSpeed: 160
   Animator_Player: {fileID: 1063123694}
 --- !u!95 &1063123694
 Animator:
